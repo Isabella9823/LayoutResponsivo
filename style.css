@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-direction: column;  
-    
+
     }
     
     .card1 {
@@ -36,3 +36,14 @@
       font-size: 30px;
       color:black;
     }
+
+    .containerr {  
+      display: grid;  
+      grid-gap: 170px;  
+      grid-template-columns: repeat(auto-fit, 220px);
+      grid-template-rows: repeat(2, 260px);  
+  }
+  
+  
+  
+  
