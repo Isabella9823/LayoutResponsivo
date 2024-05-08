@@ -22,7 +22,7 @@
 
   .flex-container {
     display: flex;
-    background-color: rgb(106, 90, 205);
+    background-color: #6a5acd;
   }
   
   .flex-container > div {
